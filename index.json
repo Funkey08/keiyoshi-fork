@@ -5631,10 +5631,10 @@
   {
     "name": "Tachiyomi: BlossomManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.all.sakuramanhwa",
-    "apk": "tachiyomi-all.sakuramanhwa-v1.4.3.apk",
+    "apk": "tachiyomi-all.sakuramanhwa-v1.4.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
@@ -18179,10 +18179,10 @@
   {
     "name": "Tachiyomi: Scan-Manga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scanmanga",
-    "apk": "tachiyomi-fr.scanmanga-v1.4.18.apk",
+    "apk": "tachiyomi-fr.scanmanga-v1.4.19.apk",
     "lang": "fr",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
