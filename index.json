@@ -7958,17 +7958,17 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.56.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.57.apk",
     "lang": "en",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 0,
     "sources": [
       {
         "name": "Vortex Scans",
         "lang": "en",
         "id": "2559570015828016575",
-        "baseUrl": "https://vortexscans.org",
+        "baseUrl": "https://vortexscans.io",
         "versionId": 1
       }
     ]
@@ -8102,10 +8102,10 @@
   {
     "name": "Tachiyomi: azComic",
     "pkg": "eu.kanade.tachiyomi.extension.en.azcomic",
-    "apk": "tachiyomi-en.azcomic-v1.4.1.apk",
+    "apk": "tachiyomi-en.azcomic-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -12710,17 +12710,17 @@
   {
     "name": "Tachiyomi: Nyx Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.nyxscans",
-    "apk": "tachiyomi-en.nyxscans-v1.4.18.apk",
+    "apk": "tachiyomi-en.nyxscans-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "sources": [
       {
         "name": "Nyx Scans",
         "lang": "en",
         "id": "419822582289753882",
-        "baseUrl": "https://nyxscans.com",
+        "baseUrl": "https://nyxmanga.org",
         "versionId": 1
       }
     ]
@@ -13010,24 +13010,6 @@
         "id": "940450670010209918",
         "baseUrl": "https://philiascans.org",
         "versionId": 3
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Platinum Crown",
-    "pkg": "eu.kanade.tachiyomi.extension.en.platinumcrown",
-    "apk": "tachiyomi-en.platinumcrown-v1.4.46.apk",
-    "lang": "en",
-    "code": 46,
-    "version": "1.4.46",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Platinum Crown",
-        "lang": "en",
-        "id": "2992840511596832495",
-        "baseUrl": "https://platinumscans.com",
-        "versionId": 1
       }
     ]
   },
@@ -14546,17 +14528,17 @@
   {
     "name": "Tachiyomi: Valir Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.valirscans",
-    "apk": "tachiyomi-en.valirscans-v1.4.18.apk",
+    "apk": "tachiyomi-en.valirscans-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "sources": [
       {
         "name": "Valir Scans",
         "lang": "en",
         "id": "5399846924306111232",
-        "baseUrl": "https://valirscans.com",
+        "baseUrl": "https://valirscans.org",
         "versionId": 1
       }
     ]
@@ -14965,24 +14947,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: YakshaScans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.yakshascans",
-    "apk": "tachiyomi-en.yakshascans-v1.4.47.apk",
-    "lang": "en",
-    "code": 47,
-    "version": "1.4.47",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "YakshaScans",
-        "lang": "en",
-        "id": "2713196652576386478",
-        "baseUrl": "https://yakshascans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Yaoihub",
     "pkg": "eu.kanade.tachiyomi.extension.en.yaoihub",
     "apk": "tachiyomi-en.yaoihub-v1.4.45.apk",
@@ -15309,10 +15273,10 @@
   {
     "name": "Tachiyomi: BokugenTranslation",
     "pkg": "eu.kanade.tachiyomi.extension.es.bokugentranslation",
-    "apk": "tachiyomi-es.bokugentranslation-v1.4.46.apk",
+    "apk": "tachiyomi-es.bokugentranslation-v1.4.47.apk",
     "lang": "es",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -16371,10 +16335,10 @@
   {
     "name": "Tachiyomi: ManhwaOnline",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwaonline",
-    "apk": "tachiyomi-es.manhwaonline-v1.4.45.apk",
+    "apk": "tachiyomi-es.manhwaonline-v1.4.46.apk",
     "lang": "es",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "sources": [
       {
@@ -17188,10 +17152,10 @@
   {
     "name": "Tachiyomi: Zonatmo.to (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.es.zonatmoto",
-    "apk": "tachiyomi-es.zonatmoto-v1.4.1.apk",
+    "apk": "tachiyomi-es.zonatmoto-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -19564,10 +19528,10 @@
   {
     "name": "Tachiyomi: Softkomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.softkomik",
-    "apk": "tachiyomi-id.softkomik-v1.4.7.apk",
+    "apk": "tachiyomi-id.softkomik-v1.4.8.apk",
     "lang": "id",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
@@ -20860,10 +20824,10 @@
   {
     "name": "Tachiyomi: NihonKuni",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangagun",
-    "apk": "tachiyomi-ja.mangagun-v1.4.17.apk",
+    "apk": "tachiyomi-ja.mangagun-v1.4.18.apk",
     "lang": "ja",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 1,
     "sources": [
       {
@@ -22864,10 +22828,10 @@
   {
     "name": "Tachiyomi: Mediocre Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
-    "apk": "tachiyomi-pt.mediocretoons-v1.4.16.apk",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.17.apk",
     "lang": "pt-BR",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "sources": [
       {
@@ -26266,17 +26230,17 @@
   {
     "name": "Tachiyomi: DamCoNuong",
     "pkg": "eu.kanade.tachiyomi.extension.vi.damconuong",
-    "apk": "tachiyomi-vi.damconuong-v1.4.1.apk",
+    "apk": "tachiyomi-vi.damconuong-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
         "name": "DamCoNuong",
         "lang": "vi",
         "id": "2680345917627448572",
-        "baseUrl": "https://damconuong.plus",
+        "baseUrl": "https://damconuong.blog",
         "versionId": 1
       }
     ]
@@ -26284,17 +26248,17 @@
   {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
-    "apk": "tachiyomi-vi.doctruyen3q-v1.4.27.apk",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.28.apk",
     "lang": "vi",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "sources": [
       {
         "name": "DocTruyen3Q",
         "lang": "vi",
         "id": "6168143505244976507",
-        "baseUrl": "https://doctruyen3qhubk.com",
+        "baseUrl": "https://doctruyen3qhubk.net",
         "versionId": 1
       }
     ]
@@ -26640,17 +26604,17 @@
   {
     "name": "Tachiyomi: NewTruyenTranh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.newtruyentranh",
-    "apk": "tachiyomi-vi.newtruyentranh-v1.4.4.apk",
+    "apk": "tachiyomi-vi.newtruyentranh-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
         "name": "NewTruyenTranh",
         "lang": "vi",
         "id": "2947299136081074220",
-        "baseUrl": "https://newtruyentranh8.com",
+        "baseUrl": "https://newtruyentranh9.com",
         "versionId": 1
       }
     ]
@@ -26784,17 +26748,17 @@
   {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
-    "apk": "tachiyomi-vi.toptruyen-v1.4.29.apk",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.30.apk",
     "lang": "vi",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "sources": [
       {
         "name": "Top Truyen",
         "lang": "vi",
         "id": "1166901607721102706",
-        "baseUrl": "https://www.toptruyenssz.com",
+        "baseUrl": "https://www.toptruyenssi.com",
         "versionId": 1
       }
     ]
@@ -26982,17 +26946,17 @@
   {
     "name": "Tachiyomi: Vcomycs",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vcomycs",
-    "apk": "tachiyomi-vi.vcomycs-v1.4.5.apk",
+    "apk": "tachiyomi-vi.vcomycs-v1.4.6.apk",
     "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "sources": [
       {
         "name": "Vcomycs",
         "lang": "vi",
         "id": "5613705645187939531",
-        "baseUrl": "https://vivicomi18.info",
+        "baseUrl": "https://vivicomi19.info",
         "versionId": 1
       }
     ]
@@ -27036,17 +27000,17 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.25.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.26.apk",
     "lang": "vi",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 1,
     "sources": [
       {
         "name": "VlogTruyen",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://vlogtruyen65.com",
+        "baseUrl": "https://vlogtruyen66.com",
         "versionId": 1
       }
     ]
