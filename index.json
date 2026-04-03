@@ -3429,10 +3429,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.4.206.apk",
+    "apk": "tachiyomi-all.mangadex-v1.4.207.apk",
     "lang": "all",
-    "code": 206,
-    "version": "1.4.206",
+    "code": 207,
+    "version": "1.4.207",
     "nsfw": 1,
     "sources": [
       {
@@ -8498,10 +8498,10 @@
   {
     "name": "Tachiyomi: Comix",
     "pkg": "eu.kanade.tachiyomi.extension.en.comix",
-    "apk": "tachiyomi-en.comix-v1.4.9.apk",
+    "apk": "tachiyomi-en.comix-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "sources": [
       {
@@ -12998,10 +12998,10 @@
   {
     "name": "Tachiyomi: Philia Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.philiascans",
-    "apk": "tachiyomi-en.philiascans-v1.4.46.apk",
+    "apk": "tachiyomi-en.philiascans-v1.4.47.apk",
     "lang": "en",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -26259,6 +26259,24 @@
         "lang": "vi",
         "id": "2680345917627448572",
         "baseUrl": "https://damconuong.blog",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: DaoMeoDen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.daomeoden",
+    "apk": "tachiyomi-vi.daomeoden-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "DaoMeoDen",
+        "lang": "vi",
+        "id": "3635786412332322062",
+        "baseUrl": "https://daomeoden.net",
         "versionId": 1
       }
     ]
