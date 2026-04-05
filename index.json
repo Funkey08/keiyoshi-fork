@@ -14553,18 +14553,18 @@
   {
     "name": "Tachiyomi: Valir Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.valirscans",
-    "apk": "tachiyomi-en.valirscans-v1.4.19.apk",
+    "apk": "tachiyomi-en.valirscans-v1.4.20.apk",
     "lang": "en",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "sources": [
       {
         "name": "Valir Scans",
         "lang": "en",
-        "id": "5399846924306111232",
+        "id": "8440187396173658748",
         "baseUrl": "https://valirscans.org",
-        "versionId": 1
+        "versionId": 3
       }
     ]
   },
@@ -20399,10 +20399,10 @@
   {
     "name": "Tachiyomi: DRE Comics",
     "pkg": "eu.kanade.tachiyomi.extension.ja.drecomics",
-    "apk": "tachiyomi-ja.drecomics-v1.4.1.apk",
+    "apk": "tachiyomi-ja.drecomics-v1.4.2.apk",
     "lang": "ja",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -20417,10 +20417,10 @@
   {
     "name": "Tachiyomi: FireCross",
     "pkg": "eu.kanade.tachiyomi.extension.ja.firecross",
-    "apk": "tachiyomi-ja.firecross-v1.4.1.apk",
+    "apk": "tachiyomi-ja.firecross-v1.4.2.apk",
     "lang": "ja",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -27005,6 +27005,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: TuiTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.tuitruyen",
+    "apk": "tachiyomi-vi.tuitruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "TuiTruyen",
+        "lang": "vi",
+        "id": "4438807780413463687",
+        "baseUrl": "https://tuitruyen.top",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: TuSachXinhXinh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.tusachxinhxinh",
     "apk": "tachiyomi-vi.tusachxinhxinh-v1.4.1.apk",
@@ -27131,6 +27149,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: YuriNeko",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.yurineko",
+    "apk": "tachiyomi-vi.yurineko-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "YuriNeko",
+        "lang": "vi",
+        "id": "4413681066613655890",
+        "baseUrl": "https://yurinekoz.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ZetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.zettruyen",
     "apk": "tachiyomi-vi.zettruyen-v1.4.3.apk",
@@ -27241,10 +27277,10 @@
   {
     "name": "Tachiyomi: BiliManga",
     "pkg": "eu.kanade.tachiyomi.extension.zh.bilimanga",
-    "apk": "tachiyomi-zh.bilimanga-v1.4.6.apk",
+    "apk": "tachiyomi-zh.bilimanga-v1.4.7.apk",
     "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
