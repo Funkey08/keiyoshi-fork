@@ -7603,10 +7603,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.58.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.59.apk",
     "lang": "en",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "sources": [
       {
@@ -8611,10 +8611,10 @@
   {
     "name": "Tachiyomi: Eva Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.evascans",
-    "apk": "tachiyomi-en.evascans-v1.4.31.apk",
+    "apk": "tachiyomi-en.evascans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
@@ -14252,11 +14252,11 @@
   {
     "name": "Tachiyomi: Wearehunger",
     "pkg": "eu.kanade.tachiyomi.extension.en.wearehunger",
-    "apk": "tachiyomi-en.wearehunger-v1.4.45.apk",
+    "apk": "tachiyomi-en.wearehunger-v1.4.46.apk",
     "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 0,
+    "code": 46,
+    "version": "1.4.46",
+    "nsfw": 1,
     "sources": [
       {
         "name": "Wearehunger",
@@ -17661,10 +17661,10 @@
   {
     "name": "Tachiyomi: Astral Scans",
     "pkg": "eu.kanade.tachiyomi.extension.id.astralscans",
-    "apk": "tachiyomi-id.astralscans-v1.4.31.apk",
+    "apk": "tachiyomi-id.astralscans-v1.4.32.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "sources": [
       {
@@ -25857,17 +25857,17 @@
   {
     "name": "Tachiyomi: Dua Leo Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
-    "apk": "tachiyomi-vi.dualeotruyen-v1.4.13.apk",
+    "apk": "tachiyomi-vi.dualeotruyen-v1.4.14.apk",
     "lang": "vi",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "sources": [
       {
         "name": "Dưa Leo Truyện",
         "lang": "vi",
         "id": "1039830224122325226",
-        "baseUrl": "https://dualeotruyenqr.com",
+        "baseUrl": "https://dualeotruyensg.com",
         "versionId": 1
       }
     ]
@@ -26134,6 +26134,24 @@
         "lang": "vi",
         "id": "8689080191405841403",
         "baseUrl": "https://moetruyen.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MoonTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.moontruyen",
+    "apk": "tachiyomi-vi.moontruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MoonTruyen",
+        "lang": "vi",
+        "id": "6728458353942273215",
+        "baseUrl": "https://moontruyen.com",
         "versionId": 1
       }
     ]
@@ -26573,10 +26591,10 @@
   {
     "name": "Tachiyomi: Vcomycs",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vcomycs",
-    "apk": "tachiyomi-vi.vcomycs-v1.4.6.apk",
+    "apk": "tachiyomi-vi.vcomycs-v1.4.7.apk",
     "lang": "vi",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
