@@ -14101,10 +14101,10 @@
   {
     "name": "Tachiyomi: Valir Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.valirscans",
-    "apk": "tachiyomi-en.valirscans-v1.4.20.apk",
+    "apk": "tachiyomi-en.valirscans-v1.4.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "sources": [
       {
@@ -25994,6 +25994,24 @@
         "lang": "vi",
         "id": "6580420139533147522",
         "baseUrl": "https://loppytoon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: LuotTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.luottruyen",
+    "apk": "tachiyomi-vi.luottruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "LuotTruyen",
+        "lang": "vi",
+        "id": "6560112192335153780",
+        "baseUrl": "https://luottruyen4.com",
         "versionId": 1
       }
     ]
