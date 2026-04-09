@@ -8751,10 +8751,10 @@
   {
     "name": "Tachiyomi: EZmanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.ezmanga",
-    "apk": "tachiyomi-en.ezmanga-v1.4.50.apk",
+    "apk": "tachiyomi-en.ezmanga-v1.4.60.apk",
     "lang": "en",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 0,
     "sources": [
       {
