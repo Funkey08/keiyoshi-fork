@@ -26536,6 +26536,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MeoSua",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.meosua",
+    "apk": "tachiyomi-vi.meosua-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MeoSua",
+        "lang": "vi",
+        "id": "2280384130624669648",
+        "baseUrl": "https://meosua.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MiMi",
     "pkg": "eu.kanade.tachiyomi.extension.vi.mimi",
     "apk": "tachiyomi-vi.mimi-v1.4.2.apk",
