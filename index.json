@@ -7607,10 +7607,10 @@
   {
     "name": "Tachiyomi: AllManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.allanime",
-    "apk": "tachiyomi-en.allanime-v1.4.14.apk",
+    "apk": "tachiyomi-en.allanime-v1.4.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 1,
     "sources": [
       {
@@ -7834,6 +7834,24 @@
         "lang": "en",
         "id": "7621724834621233483",
         "baseUrl": "https://brainrotcomics.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: AsiaToon",
+    "pkg": "eu.kanade.tachiyomi.extension.en.asiatoon",
+    "apk": "tachiyomi-en.asiatoon-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "AsiaToon",
+        "lang": "en",
+        "id": "8533441259456905246",
+        "baseUrl": "https://asiatoon.net",
         "versionId": 1
       }
     ]
@@ -27049,17 +27067,17 @@
   {
     "name": "Tachiyomi: CBHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.4.73.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.4.74.apk",
     "lang": "vi",
-    "code": 73,
-    "version": "1.4.73",
+    "code": 74,
+    "version": "1.4.74",
     "nsfw": 1,
     "sources": [
       {
         "name": "CBHentai",
         "lang": "vi",
         "id": "823638192569572166",
-        "baseUrl": "https://2tencb.net",
+        "baseUrl": "https://2tencb.pro",
         "versionId": 1
       }
     ]
