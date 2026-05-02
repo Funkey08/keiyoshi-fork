@@ -1144,10 +1144,10 @@
   {
     "name": "Tachiyomi: Everia.club",
     "pkg": "eu.kanade.tachiyomi.extension.all.everiaclub",
-    "apk": "tachiyomi-all.everiaclub-v1.4.11.apk",
+    "apk": "tachiyomi-all.everiaclub-v1.4.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {
@@ -15426,17 +15426,17 @@
   {
     "name": "Tachiyomi: Catharsis World",
     "pkg": "eu.kanade.tachiyomi.extension.es.catharsisworld",
-    "apk": "tachiyomi-es.catharsisworld-v1.4.57.apk",
+    "apk": "tachiyomi-es.catharsisworld-v1.4.58.apk",
     "lang": "es",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 1,
     "sources": [
       {
         "name": "Catharsis World",
         "lang": "es",
         "id": "2856082375563763469",
-        "baseUrl": "https://catharsisworld.dig-it.info",
+        "baseUrl": "https://catharsisworld.lat",
         "versionId": 2
       }
     ]
@@ -15712,12 +15712,30 @@
     ]
   },
   {
+    "name": "Tachiyomi: El Scan Semanal",
+    "pkg": "eu.kanade.tachiyomi.extension.es.elscansemanal",
+    "apk": "tachiyomi-es.elscansemanal-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "El Scan Semanal",
+        "lang": "es",
+        "id": "6066408430738108766",
+        "baseUrl": "https://capibaratraductor.com/elscansemanal",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Emperor Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.emperorscan",
-    "apk": "tachiyomi-es.emperorscan-v1.4.57.apk",
+    "apk": "tachiyomi-es.emperorscan-v1.4.58.apk",
     "lang": "es",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "sources": [
       {
