@@ -14069,10 +14069,10 @@
   {
     "name": "Tachiyomi: Sana Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.sanascans",
-    "apk": "tachiyomi-en.sanascans-v1.4.18.apk",
+    "apk": "tachiyomi-en.sanascans-v1.4.20.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "sources": [
       {
@@ -15462,10 +15462,10 @@
   {
     "name": "Tachiyomi: BarManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.barmanga",
-    "apk": "tachiyomi-es.barmanga-v1.4.59.apk",
+    "apk": "tachiyomi-es.barmanga-v1.4.60.apk",
     "lang": "es",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 1,
     "sources": [
       {
