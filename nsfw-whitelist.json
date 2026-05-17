@@ -1,0 +1,6 @@
+{
+  "description": "NSFW sources that are explicitly whitelisted for inclusion",
+  "whitelist": [
+    "Tachiyomi: Weeb Central"
+  ]
+}

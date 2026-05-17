@@ -1,0 +1,48 @@
+name: Weekly Update from Keiyoshi
+
+on:
+  schedule:
+    # Run every Monday at 00:00 UTC
+    - cron: '0 0 * * 1'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Run update script
+        run: python3 update-index.py
+      
+      - name: Configure git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+      
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected"
+          else
+            echo "Changes detected, committing..."
+            git add index.json index.min.json
+            git commit -m "chore: auto-update from keiyoshi/extensions
+
+- Filtered to include only SFW sources
+- Included whitelisted NSFW sources from nsfw-whitelist.json
+- Automated weekly update via GitHub Actions"
+            git push
+          fi
